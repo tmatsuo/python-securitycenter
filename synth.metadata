@@ -4,29 +4,29 @@
       "git": {
         "name": ".",
         "remote": "git@github.com:googleapis/python-securitycenter.git",
-        "sha": "a30a996cafb8dd9fed3c86ef641d42ab959febe3"
+        "sha": "c70d7904425ae5ac252ffa7317ec6d08234a6c27"
       }
     },
     {
       "git": {
         "name": "googleapis",
         "remote": "https://github.com/googleapis/googleapis.git",
-        "sha": "50ae1c72fd94a3ae4269394b09e4b7fbb9251146",
-        "internalRef": "320484049"
+        "sha": "6a813acf535e4746fa4a135ce23547bb6425c26d",
+        "internalRef": "323472217"
       }
     },
     {
       "git": {
         "name": "synthtool",
         "remote": "https://github.com/googleapis/synthtool.git",
-        "sha": "799d8e6522c1ef7cb55a70d9ea0b15e045c3d00b"
+        "sha": "5506723fef367557d83cf072d0c18020c049fcb8"
       }
     },
     {
       "git": {
         "name": "synthtool",
         "remote": "https://github.com/googleapis/synthtool.git",
-        "sha": "799d8e6522c1ef7cb55a70d9ea0b15e045c3d00b"
+        "sha": "5506723fef367557d83cf072d0c18020c049fcb8"
       }
     }
   ],
